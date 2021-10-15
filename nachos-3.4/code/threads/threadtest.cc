@@ -21,6 +21,9 @@
 //	purposes.
 //----------------------------------------------------------------------
 
+
+//This is a change from the vm.
+
 void
 SimpleThread(int which)
 {
